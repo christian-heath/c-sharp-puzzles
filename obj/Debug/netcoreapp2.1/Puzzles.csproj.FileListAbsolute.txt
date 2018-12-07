@@ -1,0 +1,11 @@
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.deps.json
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.runtimeconfig.json
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.runtimeconfig.dev.json
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.dll
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\bin\Debug\netcoreapp2.1\Puzzles.pdb
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.AssemblyInfo.cs
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.dll
+C:\Users\Christian Heath\Desktop\c-sharp\Puzzles\obj\Debug\netcoreapp2.1\Puzzles.pdb
